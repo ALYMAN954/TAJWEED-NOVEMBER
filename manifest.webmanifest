@@ -1,0 +1,17 @@
+{
+  "name": "مسابقة الجزرية",
+  "short_name": "الجزرية",
+  "description": "مسابقة المتون: الجزرية وأحكام التجويد، جامع مبارك بن عسكر الهاجري",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e3efec",
+  "theme_color": "#13685d",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
